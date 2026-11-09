@@ -40,13 +40,6 @@ I'm developing my backend engineering skills through hands-on projects involving
 
 [Live Demo](http://stockflow.runasp.net/index.html)
 
-### [WalletTracker](https://github.com/Omar-adel11/WalletTracker)
-**Personal Finance REST API — .NET 8 & Clean Architecture**
-- Designed a backend for multi-currency wallets, transfers, income and expenses, budgets, installment plans, and savings goals.
-- Uses SQL Server with EF Core, ASP.NET Core Identity, and JWT authentication.
-- Implements Redis cache-aside, route-specific rate limiting, and soft deletion.
-- Integrates Paymob subscriptions with HMAC-SHA512 webhook verification.
-
 ### [Smart Helmet](https://github.com/Omar-adel11/SmartHelmet)
 **IoT-Based Smart Safety Helmet — Graduation Project (Grade: A+)**
 - Developed a connected safety system combining an ESP32, a 9-axis IMU, TinyML, an ASP.NET Core backend, and a companion mobile application.
@@ -54,6 +47,14 @@ I'm developing my backend engineering skills through hands-on projects involving
 - The model achieved **97.29% accuracy** and a **2.2% false-alarm rate** in the project's evaluation.
 - Added BLE SOS communication, driver-cancellable alert confirmation, head-tilt turn signals, and rear-obstacle alerts.
 - Backend capabilities include user identity, emergency-contact management, and SMS alert delivery.
+
+### [WalletTracker](https://github.com/Omar-adel11/WalletTracker)
+**Personal Finance REST API — .NET 8 & Clean Architecture**
+- Designed a backend for multi-currency wallets, transfers, income and expenses, budgets, installment plans, and savings goals.
+- Uses SQL Server with EF Core, ASP.NET Core Identity, and JWT authentication.
+- Implements Redis cache-aside, route-specific rate limiting, and soft deletion.
+- Integrates Paymob subscriptions with HMAC-SHA512 webhook verification.
+
 
 ### [AWS Cloud Social Research Organization App](https://github.com/Omar-adel11/AWS-cloud-Social-Research-Organization-APP)
 **Cloud-Hosted University Project**
@@ -73,8 +74,8 @@ I'm developing my backend engineering skills through hands-on projects involving
 ## 📫 Connect With Me
 
 - **GitHub:** [Omar-adel11](https://github.com/Omar-adel11)
-- **LinkedIn:** Add your LinkedIn profile
-- **Email:** Add your professional email
+- **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/omar-adel26)
+- **Email:** omaradel1258@gmail.com
 
 ---
 
